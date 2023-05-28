@@ -32,10 +32,10 @@ npm install sdk-tsc-main
 
 - Run `consume-sdk` using below commands
   ```
-  ..\typescript-sdk\consume-sdk> tsc // Compile typescript project
+  ..\consume-sdk> tsc // Compile typescript project
   ```
   ```
-  ..\typescript-sdk\consume-sdk> node dist/run.js
+  ..\consume-sdk> node dist/run.js
   ```
 
 ## Usage in your independent project
